@@ -1,4 +1,4 @@
-Korea-University---Lecture-Notes
+Korea University-Lecture-Notes
 ================================
 
-Lecture notes from classes at Korea University
+Lecture notes from courses at Korea University.  Use may use these files however you like, but please give credit to the original author
