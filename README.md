@@ -9,5 +9,7 @@ Use may use these files however you like, but please give credit to the original
 Courses
 -------
 P152 - Introductory Physics II
+
 P183 - Physics for Life Sciences
+
 P505 - Graduate Quantum Mechanics I
